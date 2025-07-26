@@ -338,7 +338,7 @@ $color3: rgb(0, 104, 136);
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-image: url("${server}/${photo}");
+  background-image: url('${photo}');
   background-size: cover;
   background-position: center;
   height: 100vh;

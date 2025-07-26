@@ -78,7 +78,7 @@ const Customers = () => {
               style={{
                 borderRadius: "50%",
               }}
-              src={i.photo}
+                 src={i.photo}
               alt={i.name}
             />
           ),
