@@ -1,5 +1,5 @@
 
-#  Shopify-Ecomm Project
+#  TechShopX-Ecomm Project
 
 
 
