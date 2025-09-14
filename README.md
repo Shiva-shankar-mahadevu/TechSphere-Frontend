@@ -10,7 +10,8 @@
 
 ## Env Variables
 
-Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
+Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app .
+if already done ignore.
 
 **Essential Variables**
 
